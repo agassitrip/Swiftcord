@@ -97,7 +97,7 @@ since it was relatively new to me at that time. Hence, Swiftcord was born!
 
 ## Releases
 
-You'll need **macOS Monterey and above (>= 12.0)** to run Swiftcord.
+You'll need **macOS Catalina and above (>= 10.15)** to run Swiftcord.
 Releases from the channels below are universal bundles, and run natively on
 both Apple Silicon and Intel.
 
